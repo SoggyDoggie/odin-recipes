@@ -1,1 +1,2 @@
 # odin-recipes
+This project was an exercise to synthesize the html knowledge I have gained through the Odin Project up to this point. This project consists of a homepage with a list of links to three different recipes. The recipe pages each contain an image, headings, an ordered list and an unordered list, and a paragraph or two. My bigest takeaway from this project is the importance of using Git and committing changes frequently with proper documentation.
