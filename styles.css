@@ -20,3 +20,9 @@ padding: 5px;
     border: 4px solid;
     border-color: lightcoral;
 }
+a:link {
+    color:rgb(144, 199, 216);
+}
+a:visited {
+    color: lightcoral;
+}
