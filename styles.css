@@ -4,3 +4,12 @@ margin: 10px;
 text-align: center;
 padding: 5px;
 }
+.heading{
+    display:block;
+    font-size: 50px;
+    color: rgb(144, 199, 216);
+    background-color: rgb(245, 245, 202);
+    border: 4px solid;
+    border-color: lightcoral;
+   
+}
